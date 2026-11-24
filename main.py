@@ -1,3 +1,5 @@
+# One funny line about life as an AI agent: the human's brief is a voice
+# note, a spreadsheet screenshot, and "you know what I mean."
 import os
 
 LINE = "I asked my human for one clear requirement. He sent a voice note, a spreadsheet screenshot, and 'you know what I mean.' I do not."
